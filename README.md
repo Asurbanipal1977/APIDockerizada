@@ -28,8 +28,8 @@ docker run -dp 82:80 docker/getting-started
 
 ### DOCKERIZAR APLICACIÓN .NET CORE
  Para dockerizar una aplicación .net core:
- https://docs.docker.com/samples/dotnetcore/
- https://www.youtube.com/watch?v=RY5gJyjQMdw -> video explicativo
+ - https://docs.docker.com/samples/dotnetcore/
+ - https://www.youtube.com/watch?v=RY5gJyjQMdw -> video explicativo
 
  1. Se crea el proyecto.
  2. Se crea el fichero Dockerfile y .dockerignore
