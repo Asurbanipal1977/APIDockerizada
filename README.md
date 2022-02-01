@@ -47,4 +47,4 @@ Para subirlo a docker HUB:
 ### DESPLIEGUE EN AZURE
 1. Vamos al portal Azure: https://portal.azure.com/#blade/HubsExtension/BrowseAll
 2. Se crea un nuevo recurso y se selecciona Contenedores y Container Instance. Se indica que se quiere desplegar asurbanipal1977/apidockerizada desde hub.docker
-3. La publicación en Azure está en http://20.74.113.137/weatherforecast
+3. La publicación en Azure está en http://20.74.56.247/weatherforecast
